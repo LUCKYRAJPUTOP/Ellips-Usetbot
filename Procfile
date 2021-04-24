@@ -1,1 +1,1 @@
-worker: bash darkbot
+worker: bash ellipsbot
