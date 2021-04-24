@@ -1,7 +1,7 @@
 #!/bin/bash
-#   Copyright (C) 2021 H1M4N5HU0P
+#   Copyright (C) 2021 LUCKYRAJPUT
 #
-#   Poject DARKBOT is free software: 
+#   Poject ELLIPSBOT is free software: 
 #   you can redistribute it and/or modify it under the terms of the GNU General Public License 
 #   as published by the Free Software Foundation, either version 3 of the License, 
 #   or (at your option) any later version.
@@ -16,8 +16,8 @@
 
 
 echo """
-                      © 𝙻𝙴𝙶𝙴𝙽𝙳𝙰𝚁𝚈_𝙰𝙵_DARKBOT                      
-                         @DARK_Bot_Support
+                      © 𝙻𝙴𝙶𝙴𝙽𝙳𝙰𝚁𝚈_𝙰T_ELLIPSBOT                      
+                         @ELLIPSSUPPORT
 """
 
 python3 string_session.py
