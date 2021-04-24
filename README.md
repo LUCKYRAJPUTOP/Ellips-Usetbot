@@ -113,7 +113,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 HARSH-78
+Copyright (C) 2021 LUCKY RAJPUT
 
 Project [ELLIPSBOT](https://github.com/LuckyRajputOP/EllipsUserbot/) is free software: you can redistribute it and/or modify
 
