@@ -2,7 +2,7 @@
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Harsh-78/DARK-USERBOT)
 [![HitCount](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-USERBOT.svg)](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-USERBOT)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Harsh_78)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/SarcasticLucky)
 
 
 
